@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/quantaflex-github-header.png" alt="Quantaflex — Professional Media Communication and Exact-Lossless Processing" width="100%">
+</p>
+
 # Quantaflex Community
 
 Quantaflex is an independently developed professional media platform built around exact-lossless processing, local-first workflows, and modular tools for creators, educators, researchers, and technical users.
