@@ -4,108 +4,104 @@
 
 # Quantaflex Community
 
-Quantaflex is an independently developed professional media platform built around exact-lossless processing, local-first workflows, and modular tools for creators, educators, researchers, and technical users.
+Quantaflex is an independently developed professional media platform built around **exact-lossless processing, local-first workflows, and modular tools** for creators, educators, researchers, and technical users.
 
-This repository is the public community home for Quantaflex.
+This repository is the public community home for Quantaflex — product information, roadmap updates, discussions, sponsorship, and release news.
 
-It contains:
-
-- public product information
-- roadmap updates
-- community discussions
-- sponsorship information
-- release announcements
-- contribution guidance
-
-It does **not** contain Quantaflex production source code, codec implementation details, proprietary algorithms, internal development branches, or confidential research material.
+> **Public community, private engineering.**  
+> Quantaflex production source code, codec implementation, proprietary algorithms, internal development branches, and confidential research remain private.
 
 ## Quantaflex Products
 
-The Quantaflex platform includes:
+### Kineplex — Home Theatre
 
-- **Kineplex** — Home Theatre
-- **FlexCam** — Social Video Edit & Posting Suite
-- **Cam2Cam**
-- **Pro Online Learning**
-- **Advanced Encoder**
-- **RCA Toolkit**
+A local-first home theatre environment for high-quality playback, organisation, and presentation of personal media.
 
-Quantaflex desktop software will also be available through the official Shopify store as a permanent commercial licence.
+### FlexCam — Social Video Edit & Posting Suite
 
-## Community Funding
+Edit, prepare, and post social video across multiple platforms from one workflow.
 
-From **15 October 2026**, Quantaflex will also offer community sponsorship.
+### Cam2Cam
 
-Sponsorship helps fund:
+Camera-to-camera communication and connected media workflow tools for production and collaboration.
 
-- continued product development
-- new features and modules
-- testing across hardware and operating systems
-- documentation
-- research
-- experimental builds
-- future Quantaflex technologies
+### Pro Online Learning
 
-Sponsor access does **not** include access to Quantaflex proprietary source code or confidential development repositories.
+A professional learning and teaching suite for creating, delivering, and managing online training, tutorials, demonstrations, and structured educational media.
 
-### Sponsorship Levels
+### Advanced Encoder
 
-**£5 / €6 per month — Quantaflex Supporter**
+Advanced media preparation and encoding tools for efficient delivery, social preparation, and exact-lossless workflows.
 
-- access to the Quantaflex desktop application while sponsorship is active
+### RCA Toolkit
+
+A specialist analysis and optimisation toolkit based on the **Relational Computation Algorithm**, designed for diagnostics, structured analysis, workflow optimisation, and research applications.
+
+## Community Sponsorship
+
+Community sponsorship opens **15 October 2026**.
+
+Sponsorship helps fund continued development, compatibility testing, documentation, performance research, experimental builds, and new Quantaflex capabilities.
+
+### $5/month — Quantaflex Supporter
+
+Choose **one (1) Quantaflex product bundle** while your sponsorship is active.
+
+**Includes:**
+
+- access to one selected Quantaflex product bundle
 - community access
 - development updates
 - release notes
-- supporter recognition
+- GitHub Sponsor badge
+- flexibility to change your selected bundle as your needs change
 
-**£10 / €12 per month — Quantaflex Builder**
+### $10/month — Quantaflex Builder
 
-Everything in Supporter, plus:
+Choose up to **two (2) Quantaflex product bundles** while your sponsorship is active.
 
-- early access to new product features
+**Includes everything in Supporter, plus:**
+
+- access to up to two selected Quantaflex product bundles
+- early access to selected new features
 - beta builds
 - roadmap previews
 - community voting on development priorities
+- flexibility to change your selected bundles as your needs change
 
-**£20 / €24 per month — Quantaflex Pioneer**
+### $20/month — Quantaflex Pioneer
 
-Everything in Builder, plus:
+Access the **full standard Quantaflex product suite** while your sponsorship is active.
 
+**Includes everything in Builder, plus:**
+
+- access to the full standard Quantaflex suite
 - experimental builds
-- prototype features
-- deeper technical development notes
+- prototype capabilities
+- deeper technical development updates
 - selected benchmark and testing material
-- optional Pioneer acknowledgement
+- early access to selected emerging Quantaflex capabilities
 
-**£50 / €60 per month — Quantaflex Sponsor**
+Product access is provided through the Quantaflex platform.
 
-Everything in Pioneer, plus:
-
-- periodic roadmap briefings
-- priority consideration for workflow and compatibility requests
-- sponsor acknowledgement
-
-Commercial and industry sponsorship options will also be introduced.
+Sponsorship does **not** provide access to Quantaflex source code, proprietary codec implementation, private development repositories, or unreleased intellectual property.
 
 ## Buy Quantaflex
 
-Users who prefer a permanent licence will be able to purchase Quantaflex directly through the official Shopify store.
+Users who prefer a permanent licence will be able to purchase Quantaflex through the official Shopify store.
 
-Sponsorship and permanent licensing are separate routes.
+A permanent Shopify licence includes access to **two (2) selected Quantaflex product bundles**.
 
-## Official Sites
+Sponsorship and permanent licensing are separate routes:
 
-Product website:
+- **Shopify permanent licence** — choose two product bundles
+- **$5 Supporter** — one bundle while sponsorship is active
+- **$10 Builder** — up to two bundles while sponsorship is active, plus early-access and community benefits
+- **$20 Pioneer** — full standard Quantaflex suite while sponsorship is active, plus experimental and preview benefits
 
-https://www.quantaflex.co.uk
+## Community
 
-Community website:
-
-https://www.quantaflex.net
-
-## Discussions
-
-GitHub Discussions will be used for:
+Use GitHub Discussions for:
 
 - feature ideas
 - product feedback
@@ -114,10 +110,15 @@ GitHub Discussions will be used for:
 - community questions
 - roadmap discussion
 
+## Official Sites
+
+**Product:** https://www.quantaflex.co.uk  
+**Community:** https://www.quantaflex.net
+
 ## Intellectual Property
 
 Quantaflex development repositories remain private.
 
-This repository exists to support the public community without exposing proprietary source code, codec design, experimental algorithms, or confidential development material.
+This public repository exists to support the Quantaflex community without exposing proprietary source code, codec design, experimental algorithms, or confidential development material.
 
 © 2026 Quantaflex. All rights reserved.
