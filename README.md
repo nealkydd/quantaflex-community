@@ -101,6 +101,12 @@ Sponsorship and permanent licensing are separate routes:
 - **$10 Builder** — up to two bundles while sponsorship is active, plus early-access and community benefits
 - **$20 Pioneer** — full standard Quantaflex suite while sponsorship is active, plus experimental and preview benefits
 
+## User Manual
+
+[**Download the Quantaflex User Manual — V3 (PDF)**](https://quantaflexmedia.com/guides/quantaflex-user-manual-v3.pdf)
+
+A 21-page visual guide to installation, activation, and all six Quantaflex workflows.
+
 ## Community
 
 Use GitHub Discussions for:
