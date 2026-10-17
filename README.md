@@ -8,6 +8,8 @@ Quantaflex is an independently developed professional media platform built aroun
 
 This repository is the public community home for Quantaflex — product information, roadmap updates, discussions, sponsorship, and release news.
 
+> **Start here:** [Visit Quantaflex Media](https://quantaflexmedia.com/) to explore the platform, or [buy Quantaflex](https://shop.quantaflexmedia.com/products/quantaflex) with a permanent licence.
+
 > **Public community, private engineering.**  
 > Quantaflex production source code, codec implementation, proprietary algorithms, internal development branches, and confidential research remain private.
 
@@ -33,13 +35,13 @@ A professional learning and teaching suite for creating, delivering, and managin
 
 Advanced media preparation and encoding tools for efficient delivery, social preparation, and exact-lossless workflows.
 
-### RCA Toolkit
+### Media Inspector
 
-A specialist analysis and optimisation toolkit based on the **Relational Computation Algorithm**, designed for diagnostics, structured analysis, workflow optimisation, and research applications.
+Technical media analysis and verification for containers, codecs, resolution, frame rate, bitrate, colour information, audio streams, and delivery readiness.
 
 ## Community Sponsorship
 
-Community sponsorship opens **15 October 2026**.
+Community sponsorship is now open.
 
 Sponsorship helps fund continued development, compatibility testing, documentation, performance research, experimental builds, and new Quantaflex capabilities.
 
@@ -88,13 +90,13 @@ Sponsorship does **not** provide access to Quantaflex source code, proprietary c
 
 ## Buy Quantaflex
 
-Users who prefer a permanent licence will be able to purchase Quantaflex through the official Shopify store.
+Users who prefer a permanent licence can [buy Quantaflex through the official Shopify store](https://shop.quantaflexmedia.com/products/quantaflex).
 
-A permanent Shopify licence includes access to **two (2) selected Quantaflex product bundles**.
+A permanent Shopify licence includes **three (3) selected Quantaflex workflows**.
 
 Sponsorship and permanent licensing are separate routes:
 
-- **Shopify permanent licence** — choose two product bundles
+- **Shopify permanent licence** — choose three workflows
 - **$5 Supporter** — one bundle while sponsorship is active
 - **$10 Builder** — up to two bundles while sponsorship is active, plus early-access and community benefits
 - **$20 Pioneer** — full standard Quantaflex suite while sponsorship is active, plus experimental and preview benefits
@@ -110,10 +112,6 @@ Use GitHub Discussions for:
 - community questions
 - roadmap discussion
 
-## Official Sites
-
-**Product:** https://www.quantaflex.co.uk  
-**Community:** https://www.quantaflex.net
 
 ## Intellectual Property
 
