@@ -8,7 +8,7 @@ Quantaflex is an independently developed professional media platform built aroun
 
 This repository is the public community home for Quantaflex — product information, roadmap updates, discussions, sponsorship, and release news.
 
-> **Start here:** [Visit Quantaflex Media](https://quantaflexmedia.com/) to explore the platform, or [buy Quantaflex](https://shop.quantaflexmedia.com/products/quantaflex) with a permanent licence.
+> **Start here:** [Visit Quantaflex Media](https://quantaflexmedia.com/) to explore the platform, or [buy Quantaflex](https://shop.quantaflexmedia.com/products/quantaflex) — **€9.50, one payment, permanent licence, choose three workflows.**
 
 > **Public community, private engineering.**  
 > Quantaflex production source code, codec implementation, proprietary algorithms, internal development branches, and confidential research remain private.
@@ -90,7 +90,7 @@ Sponsorship does **not** provide access to Quantaflex source code, proprietary c
 
 ## Buy Quantaflex
 
-Users who prefer a permanent licence can [buy Quantaflex through the official Shopify store](https://shop.quantaflexmedia.com/products/quantaflex).
+Users can [buy Quantaflex through the official Shopify store](https://shop.quantaflexmedia.com/products/quantaflex) for **€9.50 — one payment, no subscription.**
 
 A permanent Shopify licence includes **three (3) selected Quantaflex workflows**.
 
