@@ -8,7 +8,7 @@ Quantaflex is an independently developed professional media platform built aroun
 
 This repository is the public community home for Quantaflex — product information, roadmap updates, discussions, sponsorship, and release news.
 
-> **Start here:** [Visit Quantaflex Media](https://quantaflexmedia.com/) to explore the platform, or [buy Quantaflex](https://shop.quantaflexmedia.com/products/quantaflex) — **€9.50, one payment, permanent licence, choose three workflows.**
+> **Start here:** [Visit Quantaflex Media](https://quantaflexmedia.com/) to explore the platform, or [buy Quantaflex](https://shop.quantaflexmedia.com/products/quantaflex) — **€18, one payment, permanent licence for all 6 workflows.**
 
 > **Public community, private engineering.**  
 > Quantaflex production source code, codec implementation, proprietary algorithms, internal development branches, and confidential research remain private.
@@ -25,7 +25,9 @@ Edit, prepare, and post social video across multiple platforms from one workflow
 
 ### Cam2Cam
 
-Camera-to-camera communication and connected media workflow tools for production and collaboration.
+Camera-to-camera communication for up to 5 people, with booking and invitation emails through Video Call Scheduling.
+
+<img src="https://cdn.shopify.com/s/files/1/0958/5351/1037/files/CAM2CAM_all_layout.webp?v=1793336108" alt="Cam2Cam All layout showing a video call with 5 people" width="700">
 
 ### Pro Online Learning
 
@@ -90,7 +92,7 @@ Sponsorship does **not** provide access to Quantaflex source code, proprietary c
 
 ## Buy Quantaflex
 
-Users can [buy Quantaflex through the official Shopify store](https://shop.quantaflexmedia.com/products/quantaflex) for **€9.50 — one payment, no subscription.**
+Users can [buy Quantaflex through the official Shopify store](https://shop.quantaflexmedia.com/products/quantaflex) for **€18 for all 6 workflows — one payment, no subscription.**
 
 A permanent Shopify licence includes **three (3) selected Quantaflex workflows**.
 
